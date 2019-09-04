@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7213acb-5bc0-41e6-8096-9b48ece66436" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3-1.py" afterDir="false" />
-    </list>
+    <list default="true" id="a7213acb-5bc0-41e6-8096-9b48ece66436" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/3-1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="100" column="26" selection-start-line="100" selection-start-column="26" selection-end-line="100" selection-end-column="26" />
+            <state relative-caret-position="560">
+              <caret line="100" column="96" lean-forward="true" selection-start-line="100" selection-start-column="96" selection-end-line="100" selection-end-column="96" />
               <folding>
                 <element signature="e#174#193#0" expanded="true" />
                 <element signature="e#445#1490#0" />
@@ -154,12 +152,12 @@
       <option name="presentableId" value="Default" />
       <updated>1567562414656</updated>
       <workItem from="1567562417532" duration="6898000" />
-      <workItem from="1567575963903" duration="3057000" />
+      <workItem from="1567575963903" duration="3285000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9955000" />
+    <option name="totallyTimeSpent" value="10183000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -179,7 +177,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.499653" visible="true" weight="0.5647443" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.499653" weight="0.5647443" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934713" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -225,8 +223,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3-1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="100" column="26" selection-start-line="100" selection-start-column="26" selection-end-line="100" selection-end-column="26" />
+        <state relative-caret-position="560">
+          <caret line="100" column="96" lean-forward="true" selection-start-line="100" selection-start-column="96" selection-end-line="100" selection-end-column="96" />
           <folding>
             <element signature="e#174#193#0" expanded="true" />
             <element signature="e#445#1490#0" />
