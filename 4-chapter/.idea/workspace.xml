@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="951059c7-f178-43ad-b52b-4d37b864e779" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3-chapter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3-chapter/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="951059c7-f178-43ad-b52b-4d37b864e779" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,12 +154,12 @@
       <updated>1567587209851</updated>
       <workItem from="1567587212829" duration="441000" />
       <workItem from="1567587733731" duration="109000" />
-      <workItem from="1567587856961" duration="3817000" />
+      <workItem from="1567587856961" duration="3851000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4367000" />
+    <option name="totallyTimeSpent" value="4401000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="23" width="1483" height="1027" extended-state="0" />
